@@ -1,6 +1,6 @@
 # Parcial-2
 
-## Integrantes: 
+Integrantes: 
 José Álvaro Paíz Sandoval 
 Dinora Verenice Funes Lemus
 Yajaira Isamar
