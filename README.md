@@ -7,4 +7,4 @@ https://pypi.org/project/Kivy/
 Integrantes:   
 José Álvaro Paíz Sandoval  
 Dinora Verenice Funes Lemus  
-Yajaira Isamar  
+Yajaira Isamar Claros Maldonado
